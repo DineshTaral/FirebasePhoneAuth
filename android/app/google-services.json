@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97599866384",
+    "firebase_url": "https://fir-phone-auth-7d399.firebaseio.com",
+    "project_id": "fir-phone-auth-7d399",
+    "storage_bucket": "fir-phone-auth-7d399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97599866384:android:3cf2c27a5d71765289ac95",
+        "android_client_info": {
+          "package_name": "com.navoki.flutterphoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97599866384-21t8dgiac4ee4ttmh99epqtboo7038ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navoki.flutterphoneauth",
+            "certificate_hash": "1261f97446f9e5161dbb1d918f7c113bffb9c1ed"
+          }
+        },
+        {
+          "client_id": "97599866384-bsc8g2hqmm2dv3qugknd77hltnp8s8h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwwcsX6Boldy0d3yVkg1ZSg_Cw34Y_MSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97599866384-bsc8g2hqmm2dv3qugknd77hltnp8s8h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
